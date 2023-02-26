@@ -12,21 +12,21 @@ example:
 <code>
 const ecliptic = {
     html: {
-        head: ```
+        head: `` `
         <title>ecliptic</title>
-        ```,
-        body: `
+        ` ``,
+        body: `` `
         <p>hi</p>
         <a href="https://edensobol.com">eden sobol</a>
-        `
+        ` ``
     },
-    style: `
+    style: `` `
     p {
         color: red;
     }
     a {
         color: green;
     }
-    `
+    ` ``
 }
 </code>
