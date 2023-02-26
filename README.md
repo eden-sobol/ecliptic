@@ -2,6 +2,7 @@
 An easier to use front end js library base off objects.
 
 index.html is the base file to use that already has links to js.
+or install and manually link to ecliptic.js with npm install @eden-sobol\ecliptic
 
 ecliptic uses an object to load html and css.
 create an object in the script.js called "ecliptic".
