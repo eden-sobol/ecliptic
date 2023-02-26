@@ -31,3 +31,5 @@ const ecliptic = {
     ` ``
 }
 </code>
+
+to quickly create a new project you can copy this as a zip file and unzip it
