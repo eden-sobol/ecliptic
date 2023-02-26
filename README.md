@@ -12,9 +12,9 @@ example:
 <code>
 const ecliptic = {
     html: {
-        head: `
+        head: `` `
         <title>ecliptic</title>
-        `,
+        ` ``,
         body: `
         <p>hi</p>
         <a href="https://edensobol.com">eden sobol</a>
