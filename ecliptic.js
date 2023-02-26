@@ -1,0 +1,1 @@
+window.onload=function(){document.body.innerHTML+=ecliptic.html.body;document.head.innerHTML+=ecliptic.html.head;document.head.innerHTML+="<style id='style'></style>";document.getElementById("style").innerHTML+=ecliptic.style}
