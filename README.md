@@ -9,6 +9,7 @@ in the object, put another object called "html" with two strings, "head", and "b
 in the root object put a string "style".
 
 example:
+`
 const ecliptic = {
     html: {
         head: `
@@ -28,3 +29,4 @@ const ecliptic = {
     }
     `
 }
+`
