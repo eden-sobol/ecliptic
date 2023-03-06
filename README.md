@@ -28,6 +28,10 @@ const poly = {
     a {
         color: green;
     }
+    
+    ${code(function() {
+        console.log("you can write js in strings")
+    })}
     ` ``
 }
 </code>
